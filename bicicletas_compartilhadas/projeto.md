@@ -2,7 +2,9 @@
 ***
 
 Autor: Breno Francisco
+
 Data de atualização: 04/12/2023
+
 Estudo de Caso: Análise do compartilhamento de bicicletas da Cyclistic
 
 ***
