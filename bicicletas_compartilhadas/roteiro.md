@@ -109,5 +109,3 @@ Principais tarefas:
 
 Entrega:
 * Suas três principais recomendações com base em sua análise
-
-***
